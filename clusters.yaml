@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: basically55-hasura
+  data: null
+  kubeContext: basically55
+  name: basically55
